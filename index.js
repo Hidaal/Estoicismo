@@ -6,7 +6,7 @@ elements.forEach(element => {
         distance: '0px',
         origin: 'bottom',
         opacity: '0%',
-        viewFactor: 0.1,
+        viewFactor: 0.0,
         reset: true,
         duration: '900'
     })
